@@ -21,6 +21,8 @@
 * [Adobe Creative Cloud](https://www.adobe.com/) - 25% off
 * [GitKraken](https://www.gitkraken.com/) - 20% off GitKraken Pro. Use Code `”GKBF18”`
 * [Affinity](https://affinity.serif.com) - 30% off all products.
+* [HammerAI](https://www.hammerai.com/) - 50% OFF with code **BZAOH18**
+
 
 ## Hosting
 * [RemoteMac](https://remotemac.io/blackfriday) - Upto 50% off. 
